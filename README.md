@@ -7,6 +7,10 @@
 # Invitations
 ![invitations](https://user-images.githubusercontent.com/32743655/38009432-7ea46f14-327e-11e8-9e77-c9bf4f2ab386.PNG)
 
+# Merged
+![merged](https://user-images.githubusercontent.com/32743655/38009579-2adb78b8-327f-11e8-9795-c7f2bdcb4d5f.PNG)
+
+
 # Ketupat no.2
 ![ketup](https://user-images.githubusercontent.com/32743655/38008804-f7035f0a-327a-11e8-8a58-d993337f9352.PNG)
 
