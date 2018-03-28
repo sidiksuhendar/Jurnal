@@ -7,5 +7,9 @@
 # Ketupat no.2
 ![ketup](https://user-images.githubusercontent.com/32743655/38008804-f7035f0a-327a-11e8-8a58-d993337f9352.PNG)
 
+# Ketupa no.2b
+![2b](https://user-images.githubusercontent.com/32743655/38008986-17c6a700-327c-11e8-95ac-4dac1bea835b.PNG)
+
+
 
 
